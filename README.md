@@ -6,5 +6,4 @@ Just trying to learn git
 - List item 1
 - list item 2
 
-
-(Nt KUbj)[https://mylink.com]
+[Nt KUbj](https://mylink.com)
